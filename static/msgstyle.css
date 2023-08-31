@@ -1,0 +1,34 @@
+*
+{
+    margin: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+div.cont1
+{ 
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 25px;
+
+
+    width: 100%;
+    height: 745px;
+
+    background-image: url('https://png.pngtree.com/background/20230528/original/pngtree-an-empty-gym-with-some-equipment-and-dark-walls-picture-image_2773763.jpg');
+
+    background-size: cover;
+    color: wheat;
+    font-size: 35px;
+    text-align: center;
+    text-shadow: 3px 3px 30px  rgb(0, 0, 0);
+
+    display: grid;
+    place-items: center;
+}
+
+/* div.cont2
+{
+    
+} */

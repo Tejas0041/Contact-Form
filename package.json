@@ -1,0 +1,17 @@
+{
+  "name": "gymform",
+  "version": "1.0.0",
+  "description": "This is a form for a gym website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tejas Pawar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.4.0",
+    "nodemon": "^3.0.1",
+    "pug": "^3.0.2"
+  }
+}
